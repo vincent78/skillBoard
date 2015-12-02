@@ -4,11 +4,13 @@
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D7BF6C6E982A0C7B84B954BE2EAD9AA10DAEFA99" : 0,
     "4D8712FE42C53587A0AD77A81CD7BA0CA3A37E08" : 0,
     "528E383991ABB25DA2F873316AC243346525DFD4" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "89D624CC-59E7-4997-A309-71104A3217BF",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D7BF6C6E982A0C7B84B954BE2EAD9AA10DAEFA99" : "hoeTools\/",
     "4D8712FE42C53587A0AD77A81CD7BA0CA3A37E08" : "skillBoard\/",
     "528E383991ABB25DA2F873316AC243346525DFD4" : "blackLand\/"
   },
@@ -25,6 +27,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:vincent78\/blackLand.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "528E383991ABB25DA2F873316AC243346525DFD4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:vincent78\/hoeTool.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D7BF6C6E982A0C7B84B954BE2EAD9AA10DAEFA99"
     }
   ]
 }

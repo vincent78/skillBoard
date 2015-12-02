@@ -16,25 +16,25 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		BF7F622C1C0ED7C400A940F1 /* PBXContainerItemProxy */ = {
+		BF235C8F1C0F0D3C00E5049B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = BF7F62271C0ED7C400A940F1 /* blackland.xcodeproj */;
+			containerPortal = BF235C891C0F0D3C00E5049B /* hoetools.xcodeproj */;
 			proxyType = 2;
-			remoteGlobalIDString = BF2DCC0B1C0BF7190058D888;
-			remoteInfo = blackland;
+			remoteGlobalIDString = BF9808FA1C0F0B04007B2F75;
+			remoteInfo = hoetools;
 		};
-		BF7F622E1C0ED7C400A940F1 /* PBXContainerItemProxy */ = {
+		BF235C911C0F0D3C00E5049B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = BF7F62271C0ED7C400A940F1 /* blackland.xcodeproj */;
+			containerPortal = BF235C891C0F0D3C00E5049B /* hoetools.xcodeproj */;
 			proxyType = 2;
-			remoteGlobalIDString = BF2DCC151C0BF71A0058D888;
-			remoteInfo = blacklandTests;
+			remoteGlobalIDString = BF9809041C0F0B04007B2F75;
+			remoteInfo = hoetoolsTests;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BF235C891C0F0D3C00E5049B /* hoetools.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = hoetools.xcodeproj; path = ../../hoeTools/hoetools.xcodeproj; sourceTree = "<group>"; };
 		BF7F62221C0ED63D00A940F1 /* blackland.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = blackland.framework; path = /Users/vincent/workspace/05_IOS/fruit/skillBoard/Dependency/blackland.framework; sourceTree = "<absolute>"; };
-		BF7F62271C0ED7C400A940F1 /* blackland.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = blackland.xcodeproj; path = ../../blackLand/blackland.xcodeproj; sourceTree = "<group>"; };
 		BF94396A1C0A00F6000B66AA /* skillboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = skillboard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF94396D1C0A00F6000B66AA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BF94396F1C0A00F6000B66AA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,16 +59,16 @@
 		BF0004281C0DBEFA00E75D78 /* Dependency */ = {
 			isa = PBXGroup;
 			children = (
-				BF7F62271C0ED7C400A940F1 /* blackland.xcodeproj */,
+				BF235C891C0F0D3C00E5049B /* hoetools.xcodeproj */,
 			);
 			path = Dependency;
 			sourceTree = "<group>";
 		};
-		BF7F62281C0ED7C400A940F1 /* Products */ = {
+		BF235C8A1C0F0D3C00E5049B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BF7F622D1C0ED7C400A940F1 /* blackland.framework */,
-				BF7F622F1C0ED7C400A940F1 /* blacklandTests.xctest */,
+				BF235C901C0F0D3C00E5049B /* hoetools.framework */,
+				BF235C921C0F0D3C00E5049B /* hoetoolsTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -151,8 +151,8 @@
 			projectDirPath = "";
 			projectReferences = (
 				{
-					ProductGroup = BF7F62281C0ED7C400A940F1 /* Products */;
-					ProjectRef = BF7F62271C0ED7C400A940F1 /* blackland.xcodeproj */;
+					ProductGroup = BF235C8A1C0F0D3C00E5049B /* Products */;
+					ProjectRef = BF235C891C0F0D3C00E5049B /* hoetools.xcodeproj */;
 				},
 			);
 			projectRoot = "";
@@ -163,18 +163,18 @@
 /* End PBXProject section */
 
 /* Begin PBXReferenceProxy section */
-		BF7F622D1C0ED7C400A940F1 /* blackland.framework */ = {
+		BF235C901C0F0D3C00E5049B /* hoetools.framework */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.framework;
-			path = blackland.framework;
-			remoteRef = BF7F622C1C0ED7C400A940F1 /* PBXContainerItemProxy */;
+			path = hoetools.framework;
+			remoteRef = BF235C8F1C0F0D3C00E5049B /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		BF7F622F1C0ED7C400A940F1 /* blacklandTests.xctest */ = {
+		BF235C921C0F0D3C00E5049B /* hoetoolsTests.xctest */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.cfbundle;
-			path = blacklandTests.xctest;
-			remoteRef = BF7F622E1C0ED7C400A940F1 /* PBXContainerItemProxy */;
+			path = hoetoolsTests.xctest;
+			remoteRef = BF235C911C0F0D3C00E5049B /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 /* End PBXReferenceProxy section */
